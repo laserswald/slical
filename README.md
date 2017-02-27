@@ -1,0 +1,2 @@
+# slical
+Suckless iCal parser.
